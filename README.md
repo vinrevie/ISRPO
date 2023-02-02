@@ -11,4 +11,4 @@
 ##### :white_check_mark: Работа с БД
 ##### :white_check_mark: Красивый дизайн
 ##### :white_check_mark: Понятный код
-## :negative_squared_cross_mark: минусов нет 
+##### :negative_squared_cross_mark: минусов нет 
